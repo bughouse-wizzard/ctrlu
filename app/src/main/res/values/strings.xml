@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ctrlu</string>
+    <string name="data_loading">Загрузка данных…</string>
+    <string name="today_time">Сегодня: 0ч 00м из 24ч</string>
+    <string name="weekly_stats">Недельная статистика</string>
+</resources>
